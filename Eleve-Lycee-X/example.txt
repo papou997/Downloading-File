@@ -1,3 +1,0 @@
-Ceci est un fichier d'exemple pour le transfert.
-Il contient plusieurs lignes de texte.
-C'est un test pour voir si le transfert fonctionne bien.
